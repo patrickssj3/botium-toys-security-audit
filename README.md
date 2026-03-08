@@ -40,3 +40,11 @@ The audit identified several missing security controls, including:
 - Compliance analysis
 - Cybersecurity auditing
 
+
+## Framework Used
+
+NIST Cybersecurity Framework (CSF)
+
+## Author
+
+Patrick – Cybersecurity student and aspiring Security Analyst
